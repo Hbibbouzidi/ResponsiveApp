@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #ffffff;
+}
+.navbar-nav .navbar-light .nav-link .nav-item{
+    color: #000000;
+    font-size: 18px;
+}
+.navbar-nav .navbar-light .nav-link .nav-item :hover{
+    color: blue;
+    text-decoration: underline;
+}
